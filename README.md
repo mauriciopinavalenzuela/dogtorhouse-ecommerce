@@ -140,6 +140,7 @@ Para más detalles, consulta los respectivos `README.md` en las carpetas `fronte
   - A
 - **Backend**:
   - Lorenzo Esteban Baeza Núñez
+  - Mauricio Andrés Piña Valenzuela
 - **Aplicaciones Móviles**
   - A
 
