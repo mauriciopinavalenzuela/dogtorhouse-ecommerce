@@ -1,14 +1,14 @@
 
-# Dogtorhouse
+# Petrópolis
 
-Bienvenido al repositorio de Dogtorhouse, una plataforma ecommerce para productos de mascotas. Este es un monorepo que contiene tanto el frontend como el backend del proyecto.
+Bienvenido al repositorio de Petrópolis, una plataforma e-commerce para productos de mascotas. Este es un monorepo que contiene tanto el frontend como el backend del proyecto.
 
 ## Estructura del Proyecto
 
 El repositorio está organizado de la siguiente manera:
 
 ```
-dogtorhouse/
+petrópolis/
 ├── frontend/
 │   ├── src/
 │   ├── public/
@@ -135,18 +135,24 @@ Para más detalles, consulta los respectivos `README.md` en las carpetas `fronte
 
 ## Equipo de Trabajo
 - **Diseño UX/UI**
-  - A
+  - Carolina Herrera G
+  - María Yáñez Á
+  - Nelson Cáceres N
+  - Valeria Jara Araya
+  - Luis Gonzalez V
 - **Frontend**:
-  - A
+  - Claudia Moragrega H
+  - Leonardo Arias
+  - Pablo Gática Molina
 - **Backend**:
+  - Andree Baradit
   - Lorenzo Esteban Baeza Núñez
   - Mauricio Andrés Piña Valenzuela
-- **Aplicaciones Móviles**
-  - A
+  - Rodrigo Alcayaga M
 
 ## Contribuciones
 
-¡Gracias por tu interés en contribuir a Dogtorhouse! Para comenzar, por favor lee nuestras [Guías de Contribución](CONTRIBUTING.md) y el [Código de Conducta](CODE_OF_CONDUCT.md).
+¡Gracias por tu interés en contribuir a Petrópolis! Para comenzar, por favor lee nuestras [Guías de Contribución](CONTRIBUTING.md) y el [Código de Conducta](CODE_OF_CONDUCT.md).
 
 ## Licencia
 
